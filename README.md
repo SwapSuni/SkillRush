@@ -6,6 +6,8 @@ The application follows the **MVC architecture** and implements **role-based aut
 
 ---
 
+Note: Uploaded profile photos and resumes are stored on the server's local filesystem. In a production environment, these should be stored in cloud object storage (e.g., Cloudinary or Amazon S3) to ensure persistence across deployments.
+
 ## 🚀 Features
 
 ### 👨‍💼 Job Seeker
